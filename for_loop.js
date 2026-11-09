@@ -8,3 +8,20 @@ while(n>=1){
     n--;
     
 }
+let day="tus"
+switch (day) {
+    case "mon":
+        console.log("monday");
+        
+        
+        break;
+    case "tus":
+        console.log("tuseday");
+        break;
+        
+
+    default:
+        console.log("erro");
+        
+        break;
+}
