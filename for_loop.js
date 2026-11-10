@@ -25,3 +25,11 @@ switch (day) {
         
         break;
 }
+console.log("-".repeat(50));
+
+
+function yous(yous,yous1){
+    return yous + yous1
+
+}
+console.log(yous(2,2));
